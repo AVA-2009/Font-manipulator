@@ -1,0 +1,13 @@
+.cool{
+   font-size:15px;
+   color:black;
+}
+#R{
+    width:100%;
+    color:darkseagreen;
+    background-color: cornsilk;
+    bottom:0;
+    position: fixed;
+    line-height: 3;
+    font-size: 15px;
+}
